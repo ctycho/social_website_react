@@ -1,0 +1,15 @@
+
+.main_wrapper {
+  width: 1280px;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  grid-template-rows: 60px 1fr;
+  grid-template-areas:
+    "h h"
+    "n c";
+  margin: 0 auto;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+}
+
+

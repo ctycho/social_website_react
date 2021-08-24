@@ -1,0 +1,10 @@
+
+.content {
+    background-color: blueviolet;
+    grid-area: c;
+
+}
+
+.content img {
+    width: 800px;
+}

@@ -1,0 +1,9 @@
+
+.nav {
+    background-color: aqua;
+    grid-area: n;
+}
+
+.nav > div {
+    padding: 15px 0;
+}
